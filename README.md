@@ -53,6 +53,8 @@ The original code was developed on a local machine that is no longer available. 
 3. Upload the `.py` files using the file panel on the left
 4. In a new cell, run: `!python safety_checker.py` (repeat for each file)
 
+Alternatively you can use the AI Ethics.ipynb file
+
 ---
 
 ## References

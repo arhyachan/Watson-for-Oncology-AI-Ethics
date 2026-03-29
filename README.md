@@ -57,6 +57,8 @@ Alternatively you can use the AI Ethics.ipynb file
 
 ---
 
+Gen AI used for refactoring and debugging.
+
 ## References
 
 - de Moura, L., & Bjørner, N. (2008). Z3: An efficient SMT solver. *TACAS 2008*, LNCS vol. 4963.
